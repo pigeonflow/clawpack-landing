@@ -52,7 +52,7 @@ function HeroSection() {
             Explore Products
           </a>
           <a
-            href="https://github.com/clawpack"
+            href="https://github.com/pigeonflow"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-6 py-3 rounded-lg border border-zinc-800 text-zinc-300 font-medium text-sm hover:border-zinc-600 hover:text-zinc-100 transition-all duration-200"
@@ -181,7 +181,7 @@ function Footer() {
         </div>
         <div className="flex items-center gap-6">
           <a
-            href="https://github.com/clawpack"
+            href="https://github.com/pigeonflow"
             target="_blank"
             rel="noopener noreferrer"
             className="text-sm text-zinc-500 hover:text-zinc-300 transition-colors"
